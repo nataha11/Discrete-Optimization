@@ -1,3 +1,3 @@
-Discrete Optimization course
-Coursera -- anyint, knapsack
-Stepik -- the rest
+Discrete Optimization course<br>
+Coursera -- anyint, knapsack<br>
+Stepik -- the rest<br>
